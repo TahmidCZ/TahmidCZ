@@ -1,150 +1,177 @@
- <!--
-  TAHMIDCZ | BLACK & GOLD GITHUB PROFILE
-  Repository name: TahmidCZ
--->
-
+ 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:17130A,100:C9A227&height=220&section=header&text=TahmidCZ&fontSize=70&fontColor=F5D76E&animation=fadeIn&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20MIND&descAlignY=60&descSize=18" alt="TahmidCZ Hero Banner"/>
+<!-- CYBERPUNK HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090014,35:240046,70:5A189A,100:9D4EDD&text=TAHMIDCZ&fontSize=62&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20DEVELOPER%20%7C%20CREATIVE%20CODER&descAlignY=59&descSize=17&animation=fadeIn" alt="TahmidCZ cyberpunk banner" />
 
-<a href="https://github.com/TahmidCZ">
-<img src="https://img.shields.io/badge/GitHub-TahmidCZ-C9A227?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/>
-</a>
-<a href="https://github.com/TahmidCZ?tab=repositories">
-<img src="https://img.shields.io/badge/PROJECTS-Explore-111111?style=for-the-badge&logo=github&logoColor=F5D76E" alt="Projects"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/CONTACT-Say%20Hello-111111?style=for-the-badge&logo=gmail&logoColor=F5D76E" alt="Contact"/>
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=F5D76E&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+TahmidCZ+%F0%9F%91%8B;Web+Developer+%F0%9F%92%BB;Building+Ideas+Into+Reality;Learning.+Creating.+Improving." alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2500&pause=800&color=C77DFF&center=true&vCenter=true&repeat=true&width=700&lines=Initializing+Cyberpunk+Developer...;Building+Ideas+Into+Reality;Code.+Create.+Innovate.;Welcome+to+my+Digital+Universe+%F0%9F%92%9C" alt="Animated typing introduction" />
 
 <br/>
 
-*Turning creative ideas into beautiful digital experiences.* ✨
+<a href="https://github.com/TahmidCZ">
+  <img src="https://img.shields.io/badge/GitHub-TahmidCZ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/TahmidCZ?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-Projects-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
+<a href="https://github.com/TahmidCZ?tab=followers">
+  <img src="https://img.shields.io/github/followers/TahmidCZ?style=for-the-badge&logo=github&label=Followers&color=9D4EDD" alt="GitHub followers"/>
+</a>
 
 </div>
 
 ---
 
-## 🖤 About Me
+## `> WHO_AM_I.exe`
 
-Hey there! I'm **Tahmid**, also known as **TahmidCZ**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-- 💻 Passionate about Web Development.
-- 🌐 Interested in creating modern and user-friendly websites.
-- 🎨 Love creativity, design, and experimenting with new ideas.
-- 📚 Always learning and improving my skills.
-- 🚀 Working toward building better projects, one step at a time.
+### Hey, I'm Tahmid! 💜
 
-> 💛 *Code with purpose. Create with passion. Never stop learning.*
+**Web Developer | Creative Thinker | Lifelong Learner**
 
----
+Welcome to my digital universe! I enjoy turning ideas into interactive experiences, exploring modern web technologies, and building things that look as good as they work.
 
-## ⚒️ Tech Stack
+- 🔮 Exploring the world of web development
+- ⚡ Creating creative and user-friendly digital experiences
+- 🧩 Learning new technologies and solving problems
+- 🎨 Interested in design, creativity, and experimentation
+- 🚀 Always working toward my next level
+
+**Current mission:** Learn, build, improve, repeat.
+
+</td>
+<td width="42%" align="center" valign="middle">
+
+<img src="./assets/anime-developer.png" width="280" alt="TahmidCZ anime developer avatar"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-9D4EDD?style=for-the-badge&labelColor=10002B" alt="Online status"/>
+
+</td>
+</tr>
+</table>
+
+## `> TECH_STACK.load()`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="HTML CSS JavaScript Git GitHub VS Code"/>
+### Languages & Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" alt="Web development skills"/>
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,nodejs,npm&theme=dark" alt="Developer tools"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
-<img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/Frontend-Development-7B2CBF?style=flat-square&logo=windowsterminal&logoColor=white" alt="Frontend development"/>
+<img src="https://img.shields.io/badge/UI%2FUX-Creativity-C77DFF?style=flat-square&logo=figma&logoColor=white" alt="UI UX"/>
+<img src="https://img.shields.io/badge/Always-Learning-5A189A?style=flat-square&logo=bookstack&logoColor=white" alt="Always learning"/>
 
 </div>
 
----
+> These icons are a customizable starting point. Keep only the technologies you actually use or are currently learning.
 
-## 🚀 My Projects
+## `> FEATURED_PROJECTS.scan()`
 
 <div align="center">
 
 <a href="https://github.com/TahmidCZ?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-C9A227?style=for-the-badge&logo=github&logoColor=111111" alt="View all projects"/>
+  <img src="https://img.shields.io/badge/PROJECT_01-Explore_My_Repositories-240046?style=for-the-badge&logo=github&logoColor=C77DFF" alt="Explore repositories"/>
 </a>
 
 </div>
 
-| Project | Description |
-|---|---|
-| 🌟 Project One | Add your best project here |
-| 💻 Project Two | Showcase another cool creation |
-| 🎨 Project Three | Share a creative experiment |
-
-*Replace these examples with your actual project names and repository links.*
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TahmidCZ&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=F5D76E&text_color=FFFFFF&icon_color=C9A227" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidCZ&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=F5D76E&text_color=FFFFFF" alt="Top languages"/>
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=TahmidCZ&hide_border=true&background=0D0D0D&ring=C9A227&fire=F5D76E&currStreakLabel=F5D76E&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub streak statistics"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Stack</th>
+</tr>
+<tr>
+<td><a href="https://github.com/TahmidCZ">Your Project 01</a></td>
+<td>Replace with a short description of your project.</td>
+<td>HTML · CSS · JS</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TahmidCZ">Your Project 02</a></td>
+<td>Showcase another project you are proud of.</td>
+<td>React · CSS</td>
+</tr>
+<tr>
+<td><a href="https://github.com/TahmidCZ">Your Project 03</a></td>
+<td>Add a creative tool, website, or experiment.</td>
+<td>JavaScript</td>
+</tr>
+</table>
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/TahmidCZ/TahmidCZ/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<a href="https://github.com/TahmidCZ?tab=repositories">
+  <img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-9D4EDD?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/>
+</a>
 
 </div>
 
-**To enable this animation:** Create `.github/workflows/snake.yml` in your profile repository and configure the GitHub Actions workflow to generate and publish the snake SVG files to an `output` branch.
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=TahmidCZ&theme=onestar&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
+## `> GITHUB_STATS.render()`
 
 <div align="center">
 
 <a href="https://github.com/TahmidCZ">
-<img src="https://img.shields.io/badge/GitHub-Follow%20Me-111111?style=for-the-badge&logo=github&logoColor=F5D76E" alt="GitHub"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TahmidCZ&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=9D4EDD&text_color=E0AAFF&ring_color=9D4EDD&include_all_commits=true" alt="GitHub statistics"/>
 </a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-111111?style=for-the-badge&logo=gmail&logoColor=F5D76E" alt="Email"/>
-</a>
-<a href="https://www.youtube.com/@YOUR_YOUTUBE_HANDLE">
-<img src="https://img.shields.io/badge/YouTube-Visit%20Channel-111111?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"/>
+<a href="https://github.com/TahmidCZ">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahmidCZ&layout=compact&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=E0AAFF" alt="Most used languages"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=TahmidCZ&style=for-the-badge&color=C9A227&label=PROFILE+VIEWS" alt="Profile views"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=TahmidCZ&theme=midnight-purple&hide_border=true&background=0D1117&ring=C77DFF&fire=E0AAFF&currStreakLabel=C77DFF&sideLabels=E0AAFF&dates=9D4EDD" alt="GitHub contribution streak"/>
+
+</div>
+
+## `> ACTIVITY_MONITOR.exe`
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=TahmidCZ&bg_color=0D1117&color=C77DFF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
+
+</div>
+
+## `> CONTRIBUTION_SNAKE.start()`
+
+<div align="center">
+
+<img width="96%" src="https://raw.githubusercontent.com/TahmidCZ/TahmidCZ/output/github-contribution-grid-snake-dark.svg" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+> If the snake image does not appear initially, configure the GitHub Actions workflow below and let it generate the SVG.
+
+## `> CONNECT_TO_NETWORK()`
+
+<div align="center">
+
+<a href="https://github.com/TahmidCZ">
+  <img src="https://img.shields.io/badge/GitHub-Follow_My_Journey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://github.com/TahmidCZ?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Build_Something-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+</a>
 
 <br/><br/>
 
-### ✨ Thanks for visiting my profile!
+<img src="https://komarev.com/ghpvc/?username=TahmidCZ&style=for-the-badge&color=7B2CBF&label=PROFILE+VISITS" alt="Profile visit counter"/>
 
-*Keep building. Keep creating. Keep growing.* 🖤💛
+### 💜 Let's build something extraordinary.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A227,50:17130A,100:050505&height=120&section=footer" alt="Gold footer banner"/>
+*Every great project starts with a single line of code.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:5A189A,100:090014&height=120&section=footer" alt="Purple cyberpunk footer"/>
 
 </div>
